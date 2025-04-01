@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @andres-j-ramirez
-- 👀 I’m interested in ... FC Barcelona, Boston Celtics, and Web Dev.
-- 🌱 I’m currently learning ... HTML, CSS, & JavaScript APIs.
-- 💞️ I’m looking to collaborate on ... Web Development.
-- 📫 How to reach me ... https://www.linkedin.com/in/andres-j-ramirez
+# Hi, I'm Andres Ramirez 👋
+Cloud & DevOps Enthusiast | AWS, Terraform, CI/CD | Infrastructure as Code
 
-<!---
-andres-j-ramirez/andres-j-ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Passionate about cloud engineering, infrastructure automation, and DevOps best practices.
+🔹 Skilled in AWS, Terraform, Docker, Kubernetes, CI/CD Pipelines.
+🔹 Building and sharing projects that demonstrate real-world cloud solutions.
