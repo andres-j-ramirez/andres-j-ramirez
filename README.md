@@ -1,5 +1,5 @@
 # Hi, I'm Andres Ramirez 👋
-Cloud & DevOps Enthusiast | AWS, Terraform, CI/CD | Infrastructure as Code
+Lifelong learner, passionate about giving back and FC Barcelona
 
 🔹 Passionate about software engineering and full-stack best practices.
 🔹 Skilled in AWS, Terraform, Docker, Version control, CI/CD Pipelines.
