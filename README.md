@@ -29,8 +29,3 @@ Next.js 15, React, TypeScript, Node.js, Prisma, PostgreSQL, Tailwind CSS, Vercel
 ## Learning
 
 Harvard CS50 (edX)
-
-## Contact
-
-- Email: andresramirezqc@gmail.com  
-- LinkedIn: https://linkedin.com/in/andres-j-ramirez/
