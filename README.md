@@ -1,12 +1,14 @@
 # Hi, I'm Andres Ramirez 👋
 
 Entry-level developer with a BS in IT (WGU) and hands-on practice in web development.  
-Currently completing **Harvard CS50 (edX)** to deepen core computer science and coding fundamentals.  
+Currently completing **Harvard CS50 (edX)** to deepen programming and computer science fundamentals.  
 
 ### Early Projects
-- **First Website** — remake of logicalconsistency.org to practice HTML/CSS basics.  
-- **HTML Portfolio** — personal web dev portfolio showcasing early learning.  
+- **First Website** — my first HTML/CSS project to learn web structure basics.  
+- **HTML Portfolio** — early portfolio showcasing my initial web dev journey.  
 - **HTML Resume** — first attempt at building a professional resume in HTML.  
 
-### Learning
-Focused on strengthening programming fundamentals, algorithms, and building clean, production-ready projects.
+### What’s Next
+- Rebuilding full-stack apps (Next.js/TypeScript + Node.js/Prisma).  
+- Practicing clean commit history and reproducible builds.  
+- Preparing for internships and entry-level SWE roles.  
